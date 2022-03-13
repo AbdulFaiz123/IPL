@@ -1,0 +1,33 @@
+:root{
+    background-image: url("img/ipl.png");
+    background-repeat: no-repeat;
+   background-size: 100%;
+  
+}
+
+.login{
+    text-align: center;
+    margin-top: 2px;
+    color: white;
+}
+
+.container{
+    margin-top: 20px;
+}
+
+.margin{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.form-input{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.venue_mean_encode{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.btn{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
